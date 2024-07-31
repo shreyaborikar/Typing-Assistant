@@ -1,0 +1,3 @@
+This is the first sentence of the corpus.
+Here is another line of text.
+The corpus can contain any text data that you need.
